@@ -2,14 +2,13 @@
 
 I'm Sonia, and I like to build intelligent systems and web apps 💻
 
-I love turning ideas into things that actually work and actually solve problems 🚀
+I love turning ideas into things that actually work and solve meaningful problems 🚀
 
-My tech stack:
-🐍 Python · ⚡ JavaScript (React, Vue) · ☕ Java · 🟢 Node.js · 🗄️ SQL · 🔥 PyTorch
+My tech stack: 🐍 Python · ⚡ JavaScript (React, Vue) · ☕ Java · 🟢 Node.js · 🗄️ SQL · 🍃 MongoDB
 
 I've got a bunch of projects pinned below that you can check out, my favourite is [Essence Coach](https://github.com/sonianicoletti/Essence_LLM) 🤖
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sonia-nicoletti/) 🔗
+Let's connect on [LinkedIn](https://www.linkedin.com/in/sonia-nicoletti/) 🔗
 
 <!--
 **sonianicoletti/sonianicoletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
